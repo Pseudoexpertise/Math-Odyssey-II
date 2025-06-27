@@ -1,5 +1,5 @@
-<h1 style="text-align: center; margin-bottom: 0">Rules</h1>
-<hr>
+<h1 align="center">Rules</h1>
+
 
 ### Permitted Tools
 

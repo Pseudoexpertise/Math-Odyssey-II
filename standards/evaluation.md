@@ -27,11 +27,12 @@
 
 **Back to the roots**  
 <table style="border: 1px solid black; border-collapse: collapse;">
-  <tr><td>Rats</td><td align="right">3+4+3</td></tr>
-  <tr><td>Roots</td><td align="right">2+2+8+8</td></tr>
-  <tr><td>Fracs</td><td align="right">1+2+7</td></tr>
-  <tr><td>Pols</td><td align="right">1+59</td></tr>
-  <tr><td>Extra</td><td align="right">?</td></tr>
+    <tr><td></td><td align="right">a</td><td>b</td><td>c</td><td>d</td>
+  <tr><td>Rats</td><td align="right">3</td><td>4</td><td>3</td><td></td></tr>
+  <tr><td>Roots</td><td align="right">2</td><td>2</td><td>8</td><td>8</td></tr>
+  <tr><td>Fracs</td><td align="right">1</td><td>2</td><td>7</td><td></td></tr>
+  <tr><td>Pols</td><td align="right">1</td><td>59</td><td></td><td></td></tr>
+  <tr><td>Extra</td><td align="right">?</td><td></td><td></td><td></td></tr>
 </table>
 </td>
 <td style="border: none; padding: 10px; vertical-align: top;">

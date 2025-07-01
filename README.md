@@ -21,6 +21,6 @@ That would be one of my long term goals.
 
 ## How to participate?
 
-Any student that has not completed school yet can participate. Far that you need to make a valid submission as described [here](./standards/rules.md#-correct-submission).
+Any student that has not completed school yet can participate. Far that you need to make a valid submission as described [here](./standards/rules.md#Correct%20Submission).
 
-Upon that, there are also other interesting things.
+Upon that, there are also other interesting this.

@@ -21,7 +21,8 @@
   <tr><td>Clean work</td><td align="right">40</td></tr>
 </table>
 </td>
-
+</tr>
+<tr>
 <td style="border: none; padding: 10px; vertical-align: top;">
 
 **Back to the roots**  
@@ -33,5 +34,14 @@
   <tr><td>Extra</td><td align="right">?</td></tr>
 </table>
 </td>
+<td style="border: none; padding: 10px; vertical-align: top;">
+
+**Dieter's Boost**  
+<table style="border: 1px solid black; border-collapse: collapse;">
+  <tr><td>Correct result</td><td align="right">60</td></tr>
+  <tr><td>Clean work</td><td align="right">40</td></tr>
+</table>
+</td>
+
 </tr>
 </table>

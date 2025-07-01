@@ -27,8 +27,11 @@ Any student that has not completed school yet can participate. For that you need
 ## Further Information
 
 For more information you can look at the [standards](./standards/) folder. More specifically go
-- here to see the rules
-- here to see the point distribution for the exercises
-- here to see what prizes you can win 
+- [here](./standards/rules.md) to see the rules
+- [here](./standards/evaluation.md) to see the point distribution for the exercises
+- [here](./standards/prizes.md) to see what prizes you can win 
 
 ## Questions & Feedback
+
+If you have any questions, recommendations or other things you want to mention, just sent an e-mail to o.lebold@hotmail.com.\
+But for the case that you find a mistake (like a typo) in this repository, it is best practice to just make a pull request.

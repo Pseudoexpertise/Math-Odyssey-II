@@ -1,9 +1,9 @@
 # Math Odyssee II
 
-[What is this?](#what-is-this)
-[Who is behind this?](#who-is-behind-this)
-[How to participate?](#how-to-participate)
-[Further Information](#further-information)
+[What is this?](#what-is-this)\
+[Who is behind this?](#who-is-behind-this)\
+[How to participate?](#how-to-participate)\
+[Further Information](#further-information)\
 [Questions & Feedback](#questions--feedback)
 
 ## What is this?

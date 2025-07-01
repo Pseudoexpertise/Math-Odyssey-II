@@ -15,7 +15,7 @@ The competition is meant to challenge your creativity, intutition, endurance and
 
 ## Who is behind this?
 
-It's me, Oliver Lebold. I'm a college drop out that majored in mathematics with computer science as a minor.
+It's me, Oliver Lebold. I'm a college drop out with mathematics as a major and computer science as a minor.
 So far, there's not that much to say about me. I set myself the goal to create a math competition every year for self developement.\
 This year, I haven't dealt with mechanisms that would give this competition a more official status.\
 That would be one of my long term goals.

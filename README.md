@@ -21,6 +21,6 @@ That would be one of my long term goals.
 
 ## How to participate?
 
-Any student that has not completed school yet can participate. Far that you need to make a valid submission as described [here](./standards/rules.md#%20Correct%20Submission).
+Any student that has not completed school yet can participate. Far that you need to make a valid submission as described [here](https://github.com/Pseudoexpertise/Math-Odyssee-II/blob/main/standards/rules.md#correct-submission).
 
 Upon that, there are also other interesting this.

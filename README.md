@@ -1,10 +1,10 @@
 # Math Odyssee II
 
-What is this?
-Who is behind this?
-How to participate?
-Further Information
-Questions & Feedback
+[What is this?](#what-is-this)
+[Who is behind this?](#who-is-behind-this)
+[How to participate?](#how-to-participate)
+[Further Information](#further-information)
+[Questions & Feedback](#questions--feedback)
 
 ## What is this?
 
@@ -21,6 +21,13 @@ That would be one of my long term goals.
 
 ## How to participate?
 
-Any student that has not completed school yet can participate. Far that you need to make a valid submission as described [here](https://github.com/Pseudoexpertise/Math-Odyssee-II/blob/main/standards/rules.md#correct-submission).
+Any student that has not completed school yet can participate. For that you need to make a valid submission as described [here](https://github.com/Pseudoexpertise/Math-Odyssee-II/blob/main/standards/rules.md#correct-submission).
 
-Upon that, there are also other interesting this.
+## Further Information
+
+For more information you can look at the [standards](./standards/) folder. More specifically go
+- here to see the rules
+- here to see the point distribution for the exercises
+- here to see what prizes you can win 
+
+## Questions & Feedback

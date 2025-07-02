@@ -7,11 +7,11 @@ Group submissions are permitted, with a minimum of one member and a maximum of s
 
 ### Permitted Tools
 
-Everything is allowed as long as it's your group's work. In the end, you, as a group, must be familiar with your own project.\
-For those that succeed enough points to win a prize, their submission's authenticity will be verified by an oral exam of their, so claimed, own work.
+Provided that the work is produced by the group in question, no restrictions are imposed. Ultimately, it is imperative that each group possesses a comprehensive understanding of their respective project.\
+For those who attain a sufficient number of points to win a prize, their submission's authenticity will be verified through an oral examination of their claimed work.
 
-Only the ones that pass the exam will win the prize.\
-With one or two days of preparation, the oral exam is not meant to be difficult, given that it is entirely your group's work and you did not do plagiarism.
+The successful candidates will be awarded prizes.\
+It is reasonable to assume that the oral examination, when prepared for in a timely manner, will not pose a significant challenge. This is due to the fact that the examination is entirely dependent on the collaborative efforts of the group, and the assumption that the group will adhere to academic integrity standards by avoiding plagiarism.
 
 ### Citations
 

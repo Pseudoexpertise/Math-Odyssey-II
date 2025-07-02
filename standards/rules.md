@@ -22,7 +22,7 @@ The following is a non-exclusive list of the aforementioned elements:
 - The utilization of a solution approach or method, as delineated in a book, video, or forum, without the requisite citation of its provenance
 - A paraphrased representation of another's fundamental concept
 
-For a **book**, the following citation is required:
+For citing a **book**, the following are required:
 
 - Author
 - Title

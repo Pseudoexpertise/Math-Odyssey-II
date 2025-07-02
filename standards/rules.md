@@ -2,8 +2,8 @@
 
 ### Participants
 
-Only school students and those that have graduated from school this year can participate in this competition.\
-You can submit as a group of at least one member and at most six members.
+Participation in this competition is exclusively reserved for school students and those who have recently graduated.\
+Group submissions are permitted, with a minimum of one member and a maximum of six members per group.
 
 ### Permitted Tools
 

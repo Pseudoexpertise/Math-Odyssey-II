@@ -47,6 +47,6 @@
 </tr>
 </table>
 
-Clean work is not only correct, but verifiable, traceable and applicable.\
-Computing the solution given by the form you provided shall not require more computational complexity than is necessary or plausible.\
-A good solution is one that is easy to understand, easy to work with, and easy to build upon.
+The concept of "clean work" encompasses not only the principles of accuracy and precision, but also the attributes of verifiability, traceability, and practical applicability.\
+The solution, expressed in the provided form, will not necessitate a greater computational complexity than is both necessary and plausible.\
+A commendable solution is one that is straightforward to comprehend, straightforward to work with, and straightforward to build upon.

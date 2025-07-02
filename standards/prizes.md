@@ -1,5 +1,5 @@
-For each exercise your group gains a total of 90 points, you will win a prize. The prize will be one of its kind shared for the entire group.\
-If your group manages to achieve 90 points in multipiple exercises, it will gain the prize for each of them. For each exercise it is an annual membership, more specifically
+For each exercise, your group gains a total of 90 points; you will win a prize. The prize will be one of its kind and shared by the entire group.\
+If your group manages to achieve 90 points in multiple exercises, it will gain a prize for each of them. For each exercise, there is an annual membership, more specifically:
 
 |Exercise | Annual Substription |
 |---------|---------------------|

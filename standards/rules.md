@@ -83,7 +83,7 @@ After that, your personal information has to be given in the following format:
 | Daniels  | Jack       | 7g1   | Alc-Ohol Gymnasium | jack-daniels.@drukard.com |
 | Nuds     | Deese      | 12C   | De Nawdy School    | deese.nuds@nawdy-nt.us    |
 
-Submissions that don't satisfy the format for some instance and those that came after 09.01.2025 will not be valid!
+Submissions that don't satisfy the format, for some instance and those that came after 09.01.2025, will not be valid!
 
 ### Ambiguity
 

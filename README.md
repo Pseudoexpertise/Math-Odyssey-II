@@ -26,11 +26,11 @@ Students who have not yet completed their formal education are eligible to parti
 
 ## Further Information
 
-For more information, you can look at the [standards](./standards/) folder. More specifically, go
+For further information, please refer to the [standards folder](./standards/). To elaborate further, the following recommendations are provided:
 
-- [Here](./standards/rules.md) to see the rules
-- [Here](./standards/evaluation.md) to see the point distribution for the exercises.
-- [Here](./standards/prizes.md) to see what prizes you can win
+- [The rules](./standards/rules.md)
+- [The point distributon for the exercises](./standards/evaluation.md)
+- [The prizes you can win](./standards/prizes.md)
 
 
 ## Questions & Feedback

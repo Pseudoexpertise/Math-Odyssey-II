@@ -87,6 +87,6 @@ Submissions that don't satisfy the format, for some instance and those that came
 
 ### Ambiguity
 
-The exercises are meant to be open ended and slightly vague. In the case of ambiguity, if assumptions are need to be made, justify them by their applicability and connection to the model.\
-For a an optimal submission, your solutions are meant to be correct, verifiable, traceable and applicable.\
-Computing the solution given by the form you provided shall not require more computational complexity than necessary or plausible.
+The exercises are meant to be open-ended and slightly vague. In the case of ambiguity, if assumptions need to be made, justify them by their applicability and connection to the model.\
+For an optimal submission, your solutions are meant to be correct, verifiable, traceable and applicable.\
+Computing the solution given by the form you provided shall not require more computational complexity than is necessary or plausible.

@@ -64,17 +64,6 @@ When a proof is analogous to a concept found in the literature, it is essential 
 
 ### Correct Submission
 
-Your solution must be sent to the [submissions folder](https://github.com/Pseudoexpertise/Math-Odyssee-2/tree/main/submissions) by the 1st of September 2025.\
-Your submission must be a folder itself. The name of that folder is the name of your team.\
-In that folder, you need to have the file *README.md* that explains how to navigate the files and folders of your submission, such that someone who doesn't have access to the competitions' repository can still navigate your submission.\
-Besides the *README.md*, there must be folder *exercises* that contains the files *exercise_k.ipynb* for each exercise k and also the folder bibliography (the same hierarchy as README and exercises) is mandatory. In that folder will be your bibliography. Apart from that, the particular file structure of your bibliography can be arbitrary.\
-If you want to include external files, you have to create the folder assets (the same hierarchy as the rest) and put your assets there. Apart from that, the internal structure of the assets folder is arbitrary.
-Optionally, you can create a folder named *docs* (again, same hierarchy) where you can place your documentation. Beware that the ipynb format is meant to also document your code to some extent. Some things are better off being documented inside the ipynb file, and some things are better off being documented in an external file. You can organize that folder arbitrarily too.\
-Similarly, if you think that some mathematical details and backgrounds succeed the scope of the exercise file, you can put them in a folder, the same level as the README.md, named *theory*, that can also be structured arbitrarily.\
-If there are subroutines you don't want to show in your exercise file (they might be too large or too low-level, distracting from the broader picture), you must create an additional folder at the same level as *README.md* named *library*, which you can structure arbitrarily.\
-Optionally, you can give your submission a license that is placed at the same level as the README file.\
-Any other file or folder beyond the description given here is not allowed.
-
 It is imperative that submissions be directed to the [designated submissions folder](https://github.com/Pseudoexpertise/Math-Odyssee-2/tree/main/submissions) by September 1, 2025.\
 It is imperative that the submitted folder be an independent entity. The name of the aforementioned folder corresponds to the name of the team in question.\
 Within the designated folder, the *README.md* file must be present. This file contains instructions on how to navigate the files and folders of the submission. Its purpose is to enable individuals who lack access to the competitions' repository to still navigate the submission.\

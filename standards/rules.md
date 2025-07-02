@@ -7,7 +7,7 @@ You can submit as a group of at least one member and at most six members.
 
 ### Permitted Tools
 
-Everything is allowed as long as it's your group's work. In the end, you as a group must be familiar with your own project.\
+Everything is allowed as long as it's your group's work. In the end, you, as a group, must be familiar with your own project.\
 For those that succeed enough points to win a prize, their submission's authenticity will be verified by an oral exam of their, so claimed, own work.
 
 Only the ones that pass the exam will win the prize.\

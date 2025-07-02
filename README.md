@@ -8,7 +8,7 @@
 
 ## What is this?
 
-This is the second Math Odysse, an inofficial math competition for students from middle school to high school.\
+This is the second Math Odyssey, an inofficial math competition for students from middle school to high school.\
 The concept of the competition is still in developement. Thus, this year is very different from its [predecessor](https://www.overleaf.com/read/jdttxtdrgpdk#da9747).\
 This time, all problems are meant to only be solvable through trial and error. The problems require a degree of creativity and a load of work that are not recommended to be satisfied by a single person.\
 The competition is meant to challenge your creativity, intutition, endurance and problem solving skills.

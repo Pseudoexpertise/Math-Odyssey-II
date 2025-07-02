@@ -60,7 +60,7 @@ When you do a proof analogously to something you have found in the literature, m
 
 ### Correct Submission
 
-Your solution must be sent to [this repository](https://github.com/Pseudoexpertise/Math-Odyssee-2/tree/main) to the folder *submissions* until the 1st of September 2025.\
+Your solution must be sent to the [submissions folder](https://github.com/Pseudoexpertise/Math-Odyssee-2/tree/main/submissions) until the 1st of September 2025.\
 Your submission must be a folder itself. The name of that folder is the name of your team.\
 In that folder, you need to have the file *README.md* that explains how to navigate the files and folders of your submission such that someone who doesn't have access to the competitions repository can still navigate your submisson.\
 Besides the *README.md* there must be the folder *exercises* that contains the files *exercise_k.ipynb* for each exercise *k* and also the folder *bibliography* is mandatory. In that folder will be your bibliography. Apart from that, the particular file structure of your bibliography can be arbitrary.\

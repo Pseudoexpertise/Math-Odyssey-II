@@ -35,5 +35,5 @@ For more information, you can look at the [standards](./standards/) folder. More
 
 ## Questions & Feedback
 
-If you have any questions, recommendations or other things you want to mention, just sent an e-mail to o.lebold@hotmail.com.\
-But for the case that you find a mistake (like a typo) in this repository, it is best practice to just make a pull request.
+If you have any questions, recommendations or other things you want to mention, just send an e-mail to o.lebold@hotmail.com.\
+But in the case that you find a mistake (like a typo) in this repository, it is best practice to just make a pull request.

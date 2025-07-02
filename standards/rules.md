@@ -2,91 +2,91 @@
 
 ### Participants
 
-Only school students and those that have graduated from school this year can participate in this competition.\
-You can submit as a group of at least one member and at most six members.
+Participation in this competition is exclusively reserved for school students and those who have recently graduated.\
+Group submissions are permitted, with a minimum of one member and a maximum of six members per group.
 
 ### Permitted Tools
 
-Everything is allowed as long as it's your group's work. In the end, you, as a group, must be familiar with your own project.\
-For those that succeed enough points to win a prize, their submission's authenticity will be verified by an oral exam of their, so claimed, own work.
+Provided that the work is produced by the group in question, no restrictions are imposed. Ultimately, it is imperative that each group possesses a comprehensive understanding of their respective project.\
+For those who attain a sufficient number of points to win a prize, their submission's authenticity will be verified through an oral examination of their claimed work.
 
-Only the ones that pass the exam will win the prize.\
-With one or two days of preparation, the oral exam is not meant to be difficult, given that it is entirely your group's work and you did not do plagiarism.
+The successful candidates will be awarded prizes.\
+It is reasonable to assume that the oral examination, when prepared for in a timely manner, will not pose a significant challenge. This is due to the fact that the examination is entirely dependent on the collaborative efforts of the group, and the assumption that the group will adhere to academic integrity standards by avoiding plagiarism.
 
 ### Citations
 
-In the case of **plagiarism**, the entire submission is considered invalid.\
-This includes (but not exclusively):
+In the event of **plagiarism**, the submission in its entirety is considered invalid.\
+The following is a non-exclusive list of the aforementioned elements:
 
-- Copying and pasting from books, papers or websites without declaring it as a citation
-- Using a solution approach/method that you have found in a book, video or forum without mentioning its origin
-- Paraphrasing someone else's core idea
+- The practice of duplicating and transposing text from sources such as books, academic journals, or websites without proper citation
+- The utilization of a solution approach or method, as delineated in a book, video, or forum, without the requisite citation of its provenance
+- A paraphrased representation of another's fundamental concept
 
-For a **book**, your citation must include:
+For a **book**, the following citation is required:
 
 - Author
 - Title
 - Publisher
-- Year
+- Year of Publication
 - Page
 
-For a **website**, if the DOI exists, your citation only requires the DOI.\
-If no DOI exists, it requires:
+In the context of a **website**, if the Digital Object Identifier (DOI) is present, the citation process merely necessitates the inclusion of the DOI.\
+In the absence of a DOI, the following information is required:
 
-- URL
+- Uniform Resource Locator (URL)
 - Date of visitation
 
-If provided, for an **AI prompt**, your citation must include the URL that leads to the conversation and the date you visited it.\
-If such a URL cannot be provided, you have to include the:
+In the event that an **AI prompt** is provided, it is imperative that the citation include the URL that leads to the conversation, as well as the date of the visit.
+In the event that a Uniform Resource Locator (URL) cannot be provided, it is necessary to include the following:
 
 - Exact model of the AI
 - Date
 - External link to a file or place in a file that contains the entire prompt history
 
-You could, for instance, put the copied and pasted history in the attachment part.
+One potential method to achieve this objective would be to place the copied and pasted history in the attachment section.
 
-A **video** reference requires listing:
+A **video** reference necessitates the following:
 
-- Channel or Creator
+- channel or creator
 - Title
-- URL
+- Uniform Resource Locator (URL) is a system for identifying resources on the Internet.
 - Timestamp
 - Date of Visitation
 
-**Graphics**, **pictures**, **diagrams** and similar media must include a link to their source.\
-The **bibliography** must include all your references, and all your references must be included in your bibliography.\
-Well-known mathematical results from reliable sources do not require proof, but citation.\
-Mathematical results from non-reliable sources require proof and citation.\
-Your own mathematical results do not require citation. But proof alone is not sufficient. It is mandatory to provide a derivation too.\
-As long as after the derivation follows a proof of said statement, the derivation itself does not need to be a proof if it is the evidence that justifies trying to prove said result. In that case, empirical arguments can also be valid.\
-Anything you have to look up requires a citation.\
-When you do a proof analogously to something you have found in the literature, mention the source you got your idea for the proof from.
+It is imperative that **graphics**, **pictures**, **diagrams**, and analogous media be accompanied by a link to their source.\
+The bibliography is to include all references used in the text, and all references used must be included in the bibliography.\
+It is evident that well-known mathematical results, when sourced from reliable publications, do not necessitate proof; rather, citation is sufficient.\
+Mathematical results from unreliable sources must be supported by evidence and appropriately cited.\
+The mathematical results obtained by the author do not require citation. However, it must be noted that proof alone is not sufficient. It is imperative to provide a derivation as well.\
+Provided that after the derivation, a proof of the aforementioned statement is presented, the derivation itself does not necessitate proof. The derivation serves merely as substantiating evidence to support the endeavor to prove the result. In such instances, empirical arguments can also be valid.\
+Any information that requires documentation must be accompanied by a citation.\
+When a proof is analogous to a concept found in the literature, it is essential to cite the source from which the proof idea was derived.\
 
 ### Correct Submission
 
-Your solution must be sent to the [submissions folder](https://github.com/Pseudoexpertise/Math-Odyssee-2/tree/main/submissions) by the 1st of September 2025.\
-Your submission must be a folder itself. The name of that folder is the name of your team.\
-In that folder, you need to have the file *README.md* that explains how to navigate the files and folders of your submission, such that someone who doesn't have access to the competitions' repository can still navigate your submission.\
-Besides the *README.md*, there must be folder *exercises* that contains the files *exercise_k.ipynb* for each exercise k and also the folder bibliography (the same hierarchy as README and exercises) is mandatory. In that folder will be your bibliography. Apart from that, the particular file structure of your bibliography can be arbitrary.\
-If you want to include external files, you have to create the folder assets (the same hierarchy as the rest) and put your assets there. Apart from that, the internal structure of the assets folder is arbitrary.
-Optionally, you can create a folder named *docs* (again, same hierarchy) where you can place your documentation. Beware that the ipynb format is meant to also document your code to some extent. Some things are better off being documented inside the ipynb file, and some things are better off being documented in an external file. You can organize that folder arbitrarily too.\
-Similarly, if you think that some mathematical details and backgrounds succeed the scope of the exercise file, you can put them in a folder, the same level as the README.md, named *theory*, that can also be structured arbitrarily.\
-If there are subroutines you don't want to show in your exercise file (they might be too large or too low-level, distracting from the broader picture), you must create an additional folder at the same level as *README.md* named *library*, which you can structure arbitrarily.\
-Optionally, you can give your submission a license that is placed at the same level as the README file.\
-Any other file or folder beyond the description given here is not allowed.
+It is imperative that submissions be directed to the [designated submissions folder](https://github.com/Pseudoexpertise/Math-Odyssee-2/tree/main/submissions) by September 1, 2025.\
+It is imperative that the submitted folder be an independent entity. The name of the aforementioned folder corresponds to the name of the team in question.\
+Within the designated folder, the *README.md* file must be present. This file contains instructions on how to navigate the files and folders of the submission. Its purpose is to enable individuals who lack access to the competitions' repository to still navigate the submission.\
+In addition to the *README.md*, it is imperative that a folder designated as *exercises* be present, containing the files *exercise_k.ipynb* for each designated exercise *k*. The folder designated as *bibliography* must also be present, following the same hierarchical structure as the *README* and *exercises*. The folder containing the bibliography will be available for review. Notwithstanding, the specific file structure of one's bibliography may be selected with a high degree of arbitrariness.\
+In order to incorporate external files, it is necessary to create a folder designated as *assets*, which should adhere to the same hierarchical structure as the existing folders. The external files should be placed within this assets folder. Notwithstanding, the internal structure of the assets folder is not dictated by any specific criteria.\
+Additionally, one may opt to create a folder named *docs* (again, maintaining the same hierarchy) where documentation may be placed. It is important to note that the ipynb format is intended to serve as a documentation tool for code. In the context of data management and organization, the decision regarding the optimal location for documentation hinges upon the nature of the information in question. In certain instances, the most suitable location for documentation is within the ipynb file, while in other scenarios, an external file may be the more appropriate venue. The folder's organization can also be established in an arbitrary manner.\
+Likewise, in the event that one deems certain mathematical details and backgrounds to exceed the scope of the exercise file, one has the option of placing them in a folder, situated at the same level as the README.md, and naming it *theory*. This folder can also be structured in an arbitrary manner.\
+In the event that subroutines are deemed unnecessary for display within the exercise file, such as those that are either too voluminous or too fundamental to the task at hand, it is imperative to create an additional folder at the same level as README.md. This additional folder should be named *library* and can be structured in accordance with the user's discretion.
+Optionally, submissions may be accompanied by a license, which would be placed at the same level as the README file.\
+The presence of any additional files or folders beyond those specified in the provided description is strictly prohibited.
 
-The *README.md* file must have `# <h1 style="text-align: center">Math Odyssee II</h1>` in its first line, followed by `# <h3 style="text-align: center; margin-top: -20pt">Team Name</h3>`, where in place of *Team Name* you have to insert the name of your team.\
-After that, your personal information has to be given in the following format:
+It is imperative that the README.md file contains `# <h1 style="text-align: center">Math Odyssee II</h1>` on its first line, followed by  `# <h3 style="text-align: center; margin-top: -20pt">Team Name</h3>`, where *Team Name* is to be substituted with the name of the team in question.\
+Subsequently, the personal information of the individual in question must be submitted in the following format:
 
 | Surname | First Name | Class | School             | e-mail                    |
 | -------- | ---------- | ----- | ------------------ | ------------------------- |
 | Daniels  | Jack       | 7g1   | Alc-Ohol Gymnasium | jack-daniels.@drukard.com |
 | Nuds     | Deese      | 12C   | De Nawdy School    | deese.nuds@nawdy-nt.us    |
 
-Submissions that don't satisfy the format, for some instance and those that came after 09.01.2025, will not be valid!
+Submissions that do not adhere to the prescribed format, or those received after September 1, 2025, will be deemed invalid.
 
 ### Ambiguity
 
-The exercises are meant to be open-ended and slightly vague. In the case of ambiguity, if assumptions need to be made, justify them by their applicability and connection to the model.\
-For an optimal submission, your solutions are meant to be correct, verifiable, traceable and applicable.\
-Computing the solution given by the form you provided shall not require more computational complexity than is necessary or plausible.
+The exercises are designed to be open-ended and slightly vague, which is a deliberate pedagogical strategy. In the event of ambiguity, if assumptions must be made, it is essential to justify them by demonstrating their applicability and their connection to the model.\
+In order to ensure an optimal submission, it is essential that the proposed solutions be correct, verifiable, traceable, and applicable.\
+The solution, given its specific form, is expected to require no more computational complexity than is necessary or plausible.

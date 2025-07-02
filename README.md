@@ -26,7 +26,7 @@ Students who have not yet completed their formal education and those that have c
 
 ## Further Information
 
-For further information, please refer to the [standards folder](./standards/). To elaborate further, the following recommendations are provided:
+For further information, please refer to the [standards folder](./standards/). More specifically, the following information is provided:
 
 - [The rules](./standards/rules.md)
 - [The point distributon for the exercises](./standards/evaluation.md)

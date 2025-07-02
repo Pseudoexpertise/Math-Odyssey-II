@@ -35,5 +35,5 @@ For further information, please refer to the [standards folder](./standards/). T
 
 ## Questions & Feedback
 
-If you have any questions, recommendations or other things you want to mention, just send an e-mail to o.lebold@hotmail.com.\
-But in the case that you find a mistake (like a typo) in this repository, it is best practice to just make a pull request.
+Should further inquiries, recommendations, or other pertinent information be required, direct them to o.lebold@hotmail.com.\
+In the event that a mistake, such as a typographical error, is discovered in this repository, it is considered best practice to submit a pull request.

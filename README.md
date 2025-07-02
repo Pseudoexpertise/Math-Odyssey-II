@@ -15,10 +15,10 @@ The objective of the competition is to assess participants' creativity, intuitio
 
 ## Who is behind this?
 
-It's me, Oliver Lebold. I'm a college drop out with mathematics as a major and computer science as a minor.\
-So far, there's not that much to say about me. I set myself the goal to create a math competition every year for self development.\
-This year, I haven't dealt with mechanisms that would give this competition a more official status.\
-That would be one of my long-term goals.
+I am Oliver Lebold. I am a college dropout with a mathematics major and a computer science minor.\
+At this juncture, there is a paucity of information regarding my person. The objective was established to initiate an annual mathematics competition for the purpose of self-development.\
+In the present year, no mechanisms have been encountered that would elevate the standing of this competition to a more official status.\
+The aforementioned objective constitutes a long-term ambition.
 
 ## How to participate?
 

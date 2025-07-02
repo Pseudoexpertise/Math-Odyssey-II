@@ -60,7 +60,7 @@ Mathematical results from unreliable sources must be supported by evidence (i.e.
 The mathematical results obtained by the author do not require citation. However, it must be noted that proof alone is not sufficient. It is imperative to provide a derivation as well.\
 Provided that after the derivation, a proof of the aforementioned statement is presented, the derivation itself does not necessitate proof. The derivation serves merely as substantiating evidence to support the endeavor to prove the result. In such instances, empirical arguments can also be valid.\
 Any information that requires documentation must be accompanied by a citation.\
-When a proof is analogous to a concept found in the literature, it is essential to cite the source from which the proof idea was derived.\
+When a proof is analogous to a concept found in the literature, it is essential to cite the source from which the proof idea was derived.
 
 ### Correct Submission
 

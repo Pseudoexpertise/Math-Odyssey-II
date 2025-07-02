@@ -2,7 +2,7 @@
 
 ### Participants
 
-Only school students and those that have graduated in this year can participate in this competition.\
+Only school students and those that have graduated from school in this year can participate in this competition.\
 You can submit as a group of at least one member and at most six members. 
 
 ### Permitted Tools

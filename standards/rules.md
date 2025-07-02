@@ -83,7 +83,7 @@ Subsequently, the personal information of the individual in question must be sub
 | Daniels  | Jack       | 7g1   | Alc-Ohol Gymnasium | jack-daniels.@drukard.com |
 | Nuds     | Deese      | 12C   | De Nawdy School    | deese.nuds@nawdy-nt.us    |
 
-Submissions that don't satisfy the format, for some instance and those that came after 09.01.2025, will not be valid!
+Submissions that do not adhere to the prescribed format, or those received after September 1, 2025, will be deemed invalid.
 
 ### Ambiguity
 

@@ -15,14 +15,14 @@ With one or two days of preparation, the oral exam is not meant to be difficult,
 
 ### Citations
 
-In the case of **plagiarism**, the entire submission is considered as invalid.\
+In the case of **plagiarism**, the entire submission is considered invalid.\
 This includes (but not exclusively):
 
 - Copying and pasting from books, papers or websites without declaring it as a citation
 - Using a solution approach/method that you have found in a book, video or forum without mentioning its origin
 - Paraphrasing someone else's core idea
 
-For a **book** your citation must include:
+For a **book**, your citation must include:
 
 - Author
 - Title
@@ -31,12 +31,12 @@ For a **book** your citation must include:
 - Page
 
 For a **website**, if the DOI exists, your citation only requires the DOI.\
-If no DOI exists, it requires a:
+If no DOI exists, it requires:
 
 - URL
 - Date of visitation
 
-If providable, for an **AI prompt**, your citation must include the URL that leads to the conversation and the date you visited it.\
+If provided, for an **AI prompt**, your citation must include the URL that leads to the conversation and the date you visited it.\
 If such a URL cannot be provided, you have to include the:
 
 - Exact model of the AI
@@ -53,13 +53,13 @@ A **video** reference requires listing:
 - Timestamp
 - Date of Visitation
 
-**Graphics, pictures, diagrams** and similar media must include a link to their source.\
-The **bibliography** must include all your references and all your references must be included in your bibliography.\
-Well known mathematical results from reliable sources do not require proof, but citation.\
+**Graphics**, **pictures**, **diagrams** and similar media must include a link to their source.\
+The **bibliography** must include all your references, and all your references must be included in your bibliography.\
+Well-known mathematical results from reliable sources do not require proof, but citation.\
 Mathematical results from non-reliable sources require proof and citation.\
-Your own mathematical results do not require citation. But a proof alone is not sufficient. It is mandatory to provide a derivation too.\
-As long as after the derivation follows a proof of said statement, the derivation itself does not need to be a proof if it is the evidence that justifies to try to prove said result. In that case, also empirical arguments can be valid.\
-Anything you had to look up requires citation.\
+Your own mathematical results do not require citation. But proof alone is not sufficient. It is mandatory to provide a derivation too.\
+As long as after the derivation follows a proof of said statement, the derivation itself does not need to be a proof if it is the evidence that justifies trying to prove said result. In that case, empirical arguments can also be valid.\
+Anything you have to look up requires a citation.\
 When you do a proof analogously to something you have found in the literature, mention the source you got your idea for the proof from.
 
 ### Correct Submission

@@ -56,7 +56,7 @@ A **video** reference necessitates the following:
 It is imperative that **graphics**, **pictures**, **diagrams**, and analogous media be accompanied by a link to their source.\
 The bibliography is to include all references used in the text, and all references used must be included in the bibliography.\
 It is evident that well-known mathematical results, when sourced from reliable publications, do not necessitate proof; rather, citation is sufficient.\
-Mathematical results from unreliable sources must be supported by evidence and appropriately cited.\
+Mathematical results from unreliable sources must be supported by evidence (i.e. proof) and appropriately cited.\
 The mathematical results obtained by the author do not require citation. However, it must be noted that proof alone is not sufficient. It is imperative to provide a derivation as well.\
 Provided that after the derivation, a proof of the aforementioned statement is presented, the derivation itself does not necessitate proof. The derivation serves merely as substantiating evidence to support the endeavor to prove the result. In such instances, empirical arguments can also be valid.\
 Any information that requires documentation must be accompanied by a citation.\

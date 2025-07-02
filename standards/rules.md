@@ -75,8 +75,8 @@ If there are subroutines you don't want to show in your exercise file (they migh
 Optionally, you can give your submission a license that is placed at the same level as the README file.\
 Any other file or folder beyond the description given here is not allowed.
 
-The *README.md* file must have `# <h1 style="text-align: center">Math Odyssee II</h1>` in its first line followed by `# <h3 style="text-align: center; margin-top: -20pt">Team name</h3>`, where in place of *Team name* you have to insert the name of your team.\
-After that, your personal information has to be given by the following format:
+The *README.md* file must have `# <h1 style="text-align: center">Math Odyssee II</h1>` in its first line, followed by `# <h3 style="text-align: center; margin-top: -20pt">Team Name</h3>`, where in place of *Team Name* you have to insert the name of your team.\
+After that, your personal information has to be given in the following format:
 
 | Surname | First Name | Class | School             | e-mail                    |
 | -------- | ---------- | ----- | ------------------ | ------------------------- |

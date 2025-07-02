@@ -75,8 +75,8 @@ In the event that subroutines are deemed unnecessary for display within the exer
 Optionally, submissions may be accompanied by a license, which would be placed at the same level as the README file.\
 The presence of any additional files or folders beyond those specified in the provided description is strictly prohibited.
 
-The *README.md* file must have `# <h1 style="text-align: center">Math Odyssee II</h1>` in its first line, followed by `# <h3 style="text-align: center; margin-top: -20pt">Team Name</h3>`, where in place of *Team Name* you have to insert the name of your team.\
-After that, your personal information has to be given in the following format:
+It is imperative that the README.md file contains `# <h1 style="text-align: center">Math Odyssee II</h1>` on its first line, followed by  `# <h3 style="text-align: center; margin-top: -20pt">Team Name</h3>`, where *Team Name* is to be substituted with the name of the team in question.\
+Subsequently, the personal information of the individual in question must be submitted in the following format:
 
 | Surname | First Name | Class | School             | e-mail                    |
 | -------- | ---------- | ----- | ------------------ | ------------------------- |

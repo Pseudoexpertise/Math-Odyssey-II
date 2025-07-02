@@ -1,5 +1,6 @@
-For each exercise, your group gains a total of 90 points; you will win a prize. The prize will be one of its kind and shared by the entire group.\
-If your group manages to achieve 90 points in multiple exercises, it will gain a prize for each of them. For each exercise, there is an annual membership, more specifically:
+In order to be awarded a prize, it is necessary for a group to attain a total of 90 points in a single exercise.\
+For any exercise in which a group attains this threshold, they will be awarded a separate prize.\
+Each prize is an annual membership, as delineated in the following table:
 
 |Exercise | Annual Substription |
 |---------|---------------------|

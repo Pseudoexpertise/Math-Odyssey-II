@@ -22,7 +22,7 @@ The aforementioned objective constitutes a long-term ambition.
 
 ## How to participate?
 
-Students who have not yet completed their formal education are eligible to participate. In order to proceed, it is necessary to submit a valid entry, as outlined in the following [section](https://github.com/Pseudoexpertise/Math-Odyssee-II/blob/main/standards/rules.md#correct-submission).
+Students who have not yet completed their formal education amd those that have completed it this year are eligible to participate. In order to proceed, it is necessary to submit a valid entry, as outlined in the following [section](https://github.com/Pseudoexpertise/Math-Odyssee-II/blob/main/standards/rules.md#correct-submission).
 
 ## Further Information
 

@@ -39,7 +39,8 @@
 
 **Dieter's Boost**  
 <table style="border: 1px solid black; border-collapse: collapse;">
-  <tr><td>Correct result</td><td align="right">60</td></tr>
+  <tr><td>Particular Solution</td><td align="right">40</td></tr>
+  <tr><td>Generalization</td><td align="right">20</td></tr>
   <tr><td>Clean work</td><td align="right">40</td></tr>
 </table>
 </td>

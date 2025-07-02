@@ -48,5 +48,5 @@
 </table>
 
 Clean work is not only correct, but verifiable, traceable and applicable.\
-Computing the solution given by the form you provided shall not require more computational complexity than necessary or plausible.\
+Computing the solution given by the form you provided shall not require more computational complexity than is necessary or plausible.\
 A good solution is one that is easy to understand, easy to work with, and easy to build upon.

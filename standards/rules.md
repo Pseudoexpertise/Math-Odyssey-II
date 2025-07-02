@@ -22,7 +22,7 @@ The following is a non-exclusive list of the aforementioned elements:
 - The utilization of a solution approach or method, as delineated in a book, video, or forum, without the requisite citation of its provenance
 - A paraphrased representation of another's fundamental concept
 
-For citing a **book**, the following are required:
+For citing a **book**, the following is required:
 
 - Author
 - Title
@@ -49,7 +49,7 @@ A **video** reference necessitates the following:
 
 - channel or creator
 - Title
-- Uniform Resource Locator (URL) is a system for identifying resources on the Internet.
+- Uniform Resource Locator (URL)
 - Timestamp
 - Date of Visitation
 

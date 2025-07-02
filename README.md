@@ -26,10 +26,12 @@ Any student that has not completed school yet can participate. For that, you nee
 
 ## Further Information
 
-For more information you can look at the [standards](./standards/) folder. More specifically go
-- [here](./standards/rules.md) to see the rules
-- [here](./standards/evaluation.md) to see the point distribution for the exercises
-- [here](./standards/prizes.md) to see what prizes you can win 
+For more information, you can look at the [standards](./standards/) folder. More specifically, go
+
+- [Here](./standards/rules.md) to see the rules
+- [Here](./standards/evaluation.md) to see the point distribution for the exercises.
+- [Here](./standards/prizes.md) to see what prizes you can win
+
 
 ## Questions & Feedback
 

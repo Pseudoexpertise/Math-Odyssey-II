@@ -15,43 +15,44 @@ It is reasonable to assume that the oral examination, when prepared for in a tim
 
 ### Citations
 
-In the case of **plagiarism**, the entire submission is considered invalid.\
-This includes (but not exclusively):
+In the event of **plagiarism**, the submission in its entirety is considered invalid.\
+The following is a non-exclusive list of the aforementioned elements:
 
-- Copying and pasting from books, papers or websites without declaring it as a citation
-- Using a solution approach/method that you have found in a book, video or forum without mentioning its origin
-- Paraphrasing someone else's core idea
+- The practice of duplicating and transposing text from sources such as books, academic journals, or websites without proper citation
+- The utilization of a solution approach or method, as delineated in a book, video, or forum, without the requisite citation of its provenance
+- A paraphrased representation of another's fundamental concept
 
-For a **book**, your citation must include:
+For a **book**, the following citation is required:
 
 - Author
 - Title
 - Publisher
-- Year
+- Year of Publication
 - Page
 
-For a **website**, if the DOI exists, your citation only requires the DOI.\
-If no DOI exists, it requires:
+In the context of a **website**, if the Digital Object Identifier (DOI) is present, the citation process merely necessitates the inclusion of the DOI.\
+In the absence of a DOI, the following information is required:
 
-- URL
+- Uniform Resource Locator (URL)
 - Date of visitation
 
-If provided, for an **AI prompt**, your citation must include the URL that leads to the conversation and the date you visited it.\
-If such a URL cannot be provided, you have to include the:
+In the event that an **AI prompt** is provided, it is imperative that the citation include the URL that leads to the conversation, as well as the date of the visit.
+In the event that a Uniform Resource Locator (URL) cannot be provided, it is necessary to include the following:
 
 - Exact model of the AI
 - Date
 - External link to a file or place in a file that contains the entire prompt history
 
-You could, for instance, put the copied and pasted history in the attachment part.
+One potential method to achieve this objective would be to place the copied and pasted history in the attachment section.
 
-A **video** reference requires listing:
+A **video** reference necessitates the following:
 
-- Channel or Creator
+- channel or creator
 - Title
-- URL
+- Uniform Resource Locator (URL) is a system for identifying resources on the Internet.
 - Timestamp
 - Date of Visitation
+
 
 **Graphics**, **pictures**, **diagrams** and similar media must include a link to their source.\
 The **bibliography** must include all your references, and all your references must be included in your bibliography.\

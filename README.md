@@ -8,10 +8,10 @@
 
 ## What is this?
 
-This is the second Math Odyssey, an inofficial math competition for students from middle school to high school.\
-The concept of the competition is still in developement. Thus, this year is very different from its [predecessor](https://www.overleaf.com/read/jdttxtdrgpdk#da9747).\
-This time, all problems are meant to only be solvable through trial and error. The problems require a degree of creativity and a load of work that are not recommended to be satisfied by a single person.\
-The competition is meant to challenge your creativity, intutition, endurance and problem solving skills.
+This is the second Math Odyssey, an unofficial math competition for students from middle school to high school.\
+The concept of the competition is still in development. Thus, this year is very different from its [predecessor](https://www.overleaf.com/read/jdttxtdrgpdk#da9747).\
+This time, all problems are meant to only be solvable through trial and error. The problems require a degree of creativity and a load of work that is not recommended to be satisfied by a single person.\
+The competition is meant to challenge your creativity, intuition, endurance and problem-solving skills.
 
 ## Who is behind this?
 

@@ -1,4 +1,4 @@
-# Math Odyssee II
+# Math Odyssey II
 
 [What is this?](#what-is-this)\
 [Who is behind this?](#who-is-behind-this)\

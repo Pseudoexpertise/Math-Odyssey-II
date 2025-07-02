@@ -53,15 +53,14 @@ A **video** reference necessitates the following:
 - Timestamp
 - Date of Visitation
 
-
-**Graphics**, **pictures**, **diagrams** and similar media must include a link to their source.\
-The **bibliography** must include all your references, and all your references must be included in your bibliography.\
-Well-known mathematical results from reliable sources do not require proof, but citation.\
-Mathematical results from non-reliable sources require proof and citation.\
-Your own mathematical results do not require citation. But proof alone is not sufficient. It is mandatory to provide a derivation too.\
-As long as after the derivation follows a proof of said statement, the derivation itself does not need to be a proof if it is the evidence that justifies trying to prove said result. In that case, empirical arguments can also be valid.\
-Anything you have to look up requires a citation.\
-When you do a proof analogously to something you have found in the literature, mention the source you got your idea for the proof from.
+It is imperative that **graphics**, **pictures**, **diagrams**, and analogous media be accompanied by a link to their source.\
+The bibliography is to include all references used in the text, and all references used must be included in the bibliography.\
+It is evident that well-known mathematical results, when sourced from reliable publications, do not necessitate proof; rather, citation is sufficient.\
+Mathematical results from unreliable sources must be supported by evidence and appropriately cited.\
+The mathematical results obtained by the author do not require citation. However, it must be noted that proof alone is not sufficient. It is imperative to provide a derivation as well.\
+Provided that after the derivation, a proof of the aforementioned statement is presented, the derivation itself does not necessitate proof. The derivation serves merely as substantiating evidence to support the endeavor to prove the result. In such instances, empirical arguments can also be valid.\
+Any information that requires documentation must be accompanied by a citation.\
+When a proof is analogous to a concept found in the literature, it is essential to cite the source from which the proof idea was derived.\
 
 ### Correct Submission
 
